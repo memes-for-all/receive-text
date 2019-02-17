@@ -1,0 +1,23 @@
+{
+  "name": "receive-text",
+  "version": "1.0.0",
+  "description": "Cloud function to handle receiving text messages from Twillio API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/memes-for-all/receive-text.git"
+  },
+  "author": "Josh Martin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/memes-for-all/receive-text/issues"
+  },
+  "homepage": "https://github.com/memes-for-all/receive-text#readme",
+  "dependencies": {
+    "dotenv": "^6.2.0",
+    "twilio": "^3.28.0"
+  }
+}
