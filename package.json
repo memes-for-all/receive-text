@@ -18,6 +18,7 @@
   "homepage": "https://github.com/memes-for-all/receive-text#readme",
   "dependencies": {
     "dotenv": "^6.2.0",
+    "firebase-admin": "^7.0.0",
     "twilio": "^3.28.0"
   }
 }
